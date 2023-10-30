@@ -33,3 +33,11 @@
 |프로젝트 명|소개|팀 소개|구경하기|
 |:---:|:---:|:---:|:---:|
 |나아가|걸어다니는 추리 게임 '나아가'<br>주변 어딘가의 사진을 보고 장소를 추리해 찾아가보세요!<br>다양한 힌트를 통해 목적지를 보다 쉽게 찾아가 볼 수 있습니다!<br>[서비스 소개 링크](https://sites.google.com/woowahan.com/woowacourse-demo-5th/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%82%98%EC%95%84%EA%B0%80?authuser=0)|[팀 소개](https://sites.google.com/woowahan.com/woowacourse-demo-5th/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%82%98%EC%95%84%EA%B0%80/%EB%82%98%EC%95%84%EA%B0%80%ED%8C%80-%EC%86%8C%EA%B0%9C?authuser=0)|[github](https://github.com/woowacourse-teams/2023-naaga)<br>[플레이스토어](https://play.google.com/store/apps/details?id=com.now.naaga&hl=ko-KR)|
+
+<br><br>
+## Level 4
+|미션|Repository|키워드|1단계 PR|2-3단계 PR|4단계 PR|
+|:---:|:---:|:---:|:---:|:---:|
+|만들면서 배우는 DI|[Repository](https://github.com/woowacourse/android-di/tree/hyunji1203)|Hilt<br>Robolectric<br>Annotation<br>Qualifier<br>LifecycleObserver<br>|[PR 링크](https://github.com/woowacourse/android-di/pull/18)|[PR 링크](https://github.com/woowacourse/android-di/pull/44)|[PR 링크](https://github.com/woowacourse/android-di/pull/73)|
+|뷰 챌린지|[Repository](https://github.com/woowacourse/android-movie-theater/tree/hyunji1203)|사용자 이벤트 관리<br>뷰 성능 개선<br>Compose 맛보기|[PR 링크](https://github.com/woowacourse/android-movie-theater/pull/22)|[PR 링크](https://github.com/woowacourse/android-movie-theater/pull/46)|||
+
