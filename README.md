@@ -2,7 +2,7 @@
 
 ## Level 1
 |미션|Repository|키워드|1단계 PR|2단계 PR|
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 |자동차 경주|[Repository](https://github.com/woowacourse/kotlin-racingcar/tree/hyunji1203)|코틀린 익히기<br>학습테스트<br>단위테스트<br>MVC 패턴<br>코틀린 역컴파일|[PR 링크](https://github.com/woowacourse/kotlin-racingcar/pull/29)|[PR 링크](https://github.com/woowacourse/kotlin-racingcar/pull/60)|
 |로또|[Repository](https://github.com/woowacourse/kotlin-lotto/tree/hyunji1203)|TDD<br>점진적인 리팩터링|[PR 링크](https://github.com/woowacourse/kotlin-lotto/pull/15)|[PR 링크](https://github.com/woowacourse/kotlin-lotto/pull/48)|
 |블랙잭|[Repository](https://github.com/woowacourse/kotlin-blackjack)|코틀린 DSL<br>함수형 프로그래밍<br>|[PR 링크](https://github.com/woowacourse/kotlin-blackjack/pull/13)|[PR 링크](https://github.com/woowacourse/kotlin-blackjack/pull/45)|
@@ -16,7 +16,7 @@
 <br><br>
 ## Level 2
 |미션|Repository|키워드|1단계 PR|2단계 PR|
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 |영화 티켓 예매|[Repository](https://github.com/woowacourse/android-movie-ticket/tree/hyunji1203)|Activity LifeCycle<br>View 컴포넌트<br>SavedInstanceState<br>Serializable vs Parcelable<br>모듈 분리<br>UI 테스트<br>RecyclerView|[PR 링크](https://github.com/woowacourse/android-movie-ticket/pull/14)|[PR 링크](https://github.com/woowacourse/android-movie-ticket/pull/50)|
 |영화 극장 선택|[Repository](https://github.com/woowacourse/android-movie-theater/tree/hyunji1203)|Fragment<br>Broadcast Receiver<br>테스트 더블,MockK<br>MVP 패턴<br>DataBinding<br>|[PR 링크](https://github.com/woowacourse/android-movie-theater/pull/22)|[PR 링크](https://github.com/woowacourse/android-movie-theater/pull/46)|
 |쇼핑 장바구니|[Repository](https://github.com/woowacourse/android-shopping-cart/tree/hyunji1203)|데이터 로딩 전략<br>Glide<br>GridLayoutManager<br>View Type<br>Okhttp3<br>Repository 패턴<br>Activity Result API<br>MockWebServer<br>LiveData|[PR 링크](https://github.com/woowacourse/android-shopping-cart/pull/22)|[PR 링크](https://github.com/woowacourse/android-shopping-cart/pull/42)|
@@ -27,3 +27,9 @@
 - [영화 극장 선택](https://prolog.techcourse.co.kr/studylogs/3453)
 - [쇼핑 장바구니](https://prolog.techcourse.co.kr/studylogs/3616)
 - [쇼핑 주문](https://prolog.techcourse.co.kr/studylogs/3743)
+
+<br><br>
+## Level 3
+|프로젝트 명|소개|팀 소개|구경하기|
+|:---:|:---:|:---:|:---:|
+|나아가|걸어다니는 추리 게임 '나아가'<br>주변 어딘가의 사진을 보고 장소를 추리해 찾아가보세요!<br>다양한 힌트를 통해 목적지를 보다 쉽게 찾아가 볼 수 있습니다!<br>[서비스 소개 링크](https://sites.google.com/woowahan.com/woowacourse-demo-5th/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%82%98%EC%95%84%EA%B0%80?authuser=0)|[팀 소개](https://sites.google.com/woowahan.com/woowacourse-demo-5th/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%82%98%EC%95%84%EA%B0%80/%EB%82%98%EC%95%84%EA%B0%80%ED%8C%80-%EC%86%8C%EA%B0%9C?authuser=0)|[github](https://github.com/woowacourse-teams/2023-naaga)<br>[플레이스토어](https://play.google.com/store/apps/details?id=com.now.naaga&hl=ko-KR)|
