@@ -36,8 +36,16 @@
 
 <br><br>
 ## Level 4
-|미션|Repository|키워드|1단계 PR|2-3단계 PR|4단계 PR|
-|:---:|:---:|:---:|:---:|:---:|
-|만들면서 배우는 DI|[Repository](https://github.com/woowacourse/android-di/tree/hyunji1203)|Hilt<br>Robolectric<br>Annotation<br>Qualifier<br>LifecycleObserver<br>|[PR 링크](https://github.com/woowacourse/android-di/pull/18)|[PR 링크](https://github.com/woowacourse/android-di/pull/44)|[PR 링크](https://github.com/woowacourse/android-di/pull/73)|
-|뷰 챌린지|[Repository](https://github.com/woowacourse/android-movie-theater/tree/hyunji1203)|사용자 이벤트 관리<br>뷰 성능 개선<br>Compose 맛보기|[PR 링크](https://github.com/woowacourse/android-movie-theater/pull/22)|[PR 링크](https://github.com/woowacourse/android-movie-theater/pull/46)|||
+|미션|Repository|키워드|1단계 PR|2단계 PR|3단계 PR|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|만들면서 배우는 DI|[Repository](https://github.com/woowacourse/android-di/tree/hyunji1203)|Hilt<br>Robolectric<br>Annotation<br>Qualifier<br>LifecycleObserver<br>|[PR 링크](https://github.com/woowacourse/android-di/pull/18)|[PR 링크](https://github.com/woowacourse/android-di/pull/44)|[PR 링크](https://github.com/woowacourse/android-di/pull/73)||
+|뷰 챌린지|[Repository](https://github.com/woowacourse/android-paint/tree/hyunji1203)|사용자 이벤트 관리<br>뷰 성능 개선<br>Compose 맛보기|[PR 링크](https://github.com/woowacourse/android-paint/pull/23)|[PR 링크](https://github.com/woowacourse/android-paint/pull/41)|[PR 링크](https://github.com/woowacourse/android-paint/pull/69)|
 
+<br><br>
+
+## 테코톡
+테코톡이란 우아한테크코스 과정을 진행하며 크루들이 동료들과 학습한 내용을 공유하고 이야기하는 시간입니다.<br>
+서로가 성장하기 위해 지식을 나누고 대화하며 생각해보는 시간으로 자기 주도적인 성장을 지향하는 우아한테크코스의 문화 중 하나입니다.<br>
+레벨 내에 주어진 주제를 선택하여 10분 내외의 발표를 진행합니다.<br>
+테코톡은 온라인 발표가 아니며, 청중들 앞에서 스크립트 없이 발표하는 방식으로 진행합니다.<br><br>
+[테코톡 발표 링크 - 안드로이드 버전 별 역사](https://www.youtube.com/watch?v=aVzjhtlVWi4&t=20s)
